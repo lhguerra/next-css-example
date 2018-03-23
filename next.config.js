@@ -5,14 +5,4 @@ module.exports = withCSS({
     importLoaders: 1,
     localIdentName: "[local]_[hash:base64:5]",
   },
-  plugins: {
-    'postcss-mixins': {},
-    'postcss-for': {},
-    'postcss-each': {},
-    'postcss-nested': {},
-    'postcss-simple-vars': {},
-    'postcss-functions': {},
-    'autoprefixer': {},
-    // 'postcss-modules': {},
-  }
 })

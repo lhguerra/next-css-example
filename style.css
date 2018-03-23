@@ -1,0 +1,9 @@
+* { border: 3px solid black !important }
+
+.main {
+  background-color: yellow;
+
+  .truco {
+    background-color: blue !important;
+  }
+}

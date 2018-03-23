@@ -1,5 +1,7 @@
 * { border: 3px solid black }
 
+body { background-image: url('/static/turtle.JPG') }
+
 .main {
   background-color: yellow;
 
